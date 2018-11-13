@@ -740,12 +740,7 @@ a.green{
   margin-top: 15px;
   color: #696a67;
 }
-.first{
-  padding-left: 0;
-}
-.end {
-  padding-right: 0;
-}
+
 .footer {
   display: flex;
   width: 100%;
